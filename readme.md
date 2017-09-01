@@ -1,27 +1,29 @@
-## What is this?
+## This tutorial isn't finish
 
-Just you wait folks!
+[## What is this?]: #
 
-## Sample Data
+[Just you wait folks!]: #
 
-To load sample data, run the following command in your terminal:
+[## Sample Data]: #
 
-```bash
-npm run sample
-```
+[To load sample data, run the following command in your terminal:]: #
 
-If you have previously loaded in this data, you can wipe your database 100% clean with:
+[```bash]: #
+[npm run sample]: #
+[```]: #
 
-```bash
-npm run blowitallaway
-```
+[If you have previously loaded in this data, you can wipe your database 100% clean with:]: #
 
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
+[```bash]: #
+[npm run blowitallaway]: #
+[```]: #
 
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+[That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:]: #
+
+[|Name|Email (login)|Password|]: #
+[|---|---|---|]: #
+[|Wes Bos|wes@example.com|wes|]: #
+[|Debbie Downer|debbie@example.com|debbie|]: #
+[|Beau|beau@example.com|beau|]: #
 
 
