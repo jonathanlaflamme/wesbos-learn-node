@@ -1,5 +1,5 @@
 import axios from 'axios';
-import dumpurify from 'dompurify';
+import dompurify from 'dompurify';
 
 function searchResultsHTML(stores) {
     return stores.map(store => {
